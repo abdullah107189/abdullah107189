@@ -4,9 +4,32 @@
 </h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,tailwind,bootstrap,javascript,typescript,react,npm" /> <br>
-    <img src="https://skillicons.dev/icons?i=,nodejs,firebase,express,mongodb," /> <br>
-    <img src="https://skillicons.dev/icons?i=,vscode,github,git,figma,netlify," />
+   <div>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=npm" title="NPM" />
+</div>
+<br>
+  <div>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+</div>
+ <br>
+  <div>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
+</div>
+
 </div>
 
 <br> <br>
