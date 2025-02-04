@@ -9,6 +9,7 @@
 - 🎓 **Diploma Student**: Currently in my complete diploma.  
 - 💻 **MERN Stack Developer in Training**: Comoplete full-stack development with **Programming Hero (Batch 10)**.  
 - 🌐 **Project**: Currently building a full-stack website as part of my learning journey.
+- 👨‍💻 **Exploring Next.js**: Currently learning and implementing **Next.js** to build scalable, high-performance web applications with SSR & SSG.  
 
 
 
