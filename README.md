@@ -6,7 +6,7 @@
 
 # 😃 About Me 
 
-- 🎓 **Diploma Student**: Currently in my final semester.  
+- 🎓 **Diploma Student**: Currently in my complete diploma.  
 - 💻 **MERN Stack Developer in Training**: Learning full-stack development with **Programming Hero (Batch 10)**.  
 - 🌐 **Project**: Currently building a full-stack website as part of my learning journey.
 
@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" title="Nextjs" />
   <img src="https://skillicons.dev/icons?i=npm" title="NPM" />
 </div>
 <br>
