@@ -105,5 +105,12 @@ I’m a dedicated web developer with a passion for building interactive, respons
 - **Deployment & Hosting:** Firebase, Surge, Netlify, and Vercel for deploying applications
 
 ---
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah107189&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah107189&layout=compact&theme=radical" height="180px"/>
+</div>
+
 💡 I enjoy creating projects that solve real-world problems and push the boundaries of what’s possible on the web. Currently, I’m diving deeper into advanced web technologies and expanding my MERN stack expertise through hands-on projects.
 
