@@ -7,7 +7,7 @@
 # 😃 About Me 
 
 - 🎓 **Diploma Student**: Currently in my complete diploma.  
-- 💻 **MERN Stack Developer in Training**: Learning full-stack development with **Programming Hero (Batch 10)**.  
+- 💻 **MERN Stack Developer in Training**: Comoplete full-stack development with **Programming Hero (Batch 10)**.  
 - 🌐 **Project**: Currently building a full-stack website as part of my learning journey.
 
 
@@ -53,7 +53,7 @@ Feel free to reach out if you're interested in collaborating on a project or jus
   <a href="https://abdullah107189.@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/md-abdullah-all-shamem-9b5308325/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah107189/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <a href="https://www.facebook.com/abdullah.shamem.5">
@@ -74,7 +74,7 @@ I’m a dedicated web developer with a passion for building interactive, respons
 
 ### 🖥️ Frontend Development
 - **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React 
+- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React, Next.js
 - **Styling & Design:** Responsive Design, CSS3 Animations, Figma for prototyping
 - **Frontend Tools:** npm, Yarn
 - **Performance Optimization:** Lazy loading, code splitting, optimizing assets
@@ -85,8 +85,8 @@ I’m a dedicated web developer with a passion for building interactive, respons
 - **Languages:** JavaScript (Node.js)
 - **Frameworks & Libraries:** Express.js
 - **API Development:** RESTful API design, CRUD operations, handling HTTP methods, data validation
-- **Authentication & Authorization:** JSON Web Tokens (JWT), OAuth, Passport.js
-- **Backend Tools:** Nodemon, Postman for API testing, bcrypt for hashing passwords
+- **Authentication & Authorization:** JSON Web Tokens (JWT),  
+- **Backend Tools:** Nodemon, Postman for API testing
 - **Error Handling & Logging:** Middleware for custom error handling, logging with Winston
 
 ---
@@ -100,8 +100,8 @@ I’m a dedicated web developer with a passion for building interactive, respons
 
 ### 🛠️ Additional Tools & Technologies
 - **Version Control:** Git & GitHub for code management and collaboration
-- **Project Management:** Familiar with Agile methodologies, tools like Trello and JIRA
-- **Deployment & Hosting:** Surge, Netlify, and Vercel for deploying applications
+- **Project Management:** Familiar with Agile methodologies
+- **Deployment & Hosting:** Firebase, Surge, Netlify, and Vercel for deploying applications
 
 ---
 💡 I enjoy creating projects that solve real-world problems and push the boundaries of what’s possible on the web. Currently, I’m diving deeper into advanced web technologies and expanding my MERN stack expertise through hands-on projects.
