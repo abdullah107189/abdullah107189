@@ -6,6 +6,7 @@
 
 # 😃 About Me 
 
+- 🎓 **University Student**: Currently in my join university from Northern University Bangladesh.  
 - 🎓 **Diploma Student**: Currently in my complete diploma.  
 - 💻 **MERN Stack Developer in Training**: Comoplete full-stack development with **Programming Hero (Batch 10)**.  
 - 🌐 **Project**: Currently building a full-stack website as part of my learning journey.
