@@ -4,15 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+I+am+Abdullah!+👋;+I+work+as+a+mern+stack+developer;" />
 </h1>
 
-# 😃 About Me 
+# 😃 About Me
 
-- 🎓 **University Student**: Currently in my join university from Northern University Bangladesh.  
-- 🎓 **Diploma Student**: Currently in my complete diploma.  
-- 💻 **MERN Stack Developer in Training**: Comoplete full-stack development with **Programming Hero (Batch 10)**.  
-- 🌐 **Project**: Currently building a full-stack website as part of my learning journey.
-- 👨‍💻 **Exploring Next.js**: Currently learning and implementing **Next.js** to build scalable, high-performance web applications with SSR & SSG.  
-
-
+- 🎓 **University Student**: I am currently studying in the Computer Science and Engineering (CSE) department at **Northern University Bangladesh**.
+- 🎓 **Diploma Completed**: I have completed my diploma.
+- 💻 **MERN Stack Developer**: I have completed full-stack development with **Programming Hero (Batch 10)**.
+- 🌐 **Project**: I am currently building a **full-stack website** as part of my learning journey.
+- 👨‍💻 **Learning Next.js**: I am currently learning and implementing **Next.js** to build scalable, high-performance web applications with SSR & SSG.
 
 ###
 <br>
