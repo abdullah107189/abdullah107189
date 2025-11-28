@@ -1,73 +1,14 @@
 <div align="center">
 
-<h1 align="center" style="font-size: 3.5rem; margin-bottom: 20px;">
-   HELLO 🙋‍♂️, I'M MD. ABDULLAH ALL SHAMEM
-</h1>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=60&duration=4000&pause=1000&color=6366F1&lines=Full-Stack+Developer;MERN+Specialist;Next.js+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h2>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-
-### 🎓 Education & Background
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/University-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" />
-      <br>
-      <strong>Northern University Bangladesh</strong>
-      <br>
-      <small>BSc in CSE (1st Year)</small>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Programming_Hero-FF6B6B?style=for-the-badge&logo=react&logoColor=white" />
-      <br>
-      <strong>Level 1 | Batch 10 Graduate</strong>
-      <br>
-      <small>MERN Stack Development</small>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Programming_Hero-FF6B6B?style=for-the-badge&logo=react&logoColor=white" />
-      <br>
-      <strong>Level 2 | Batch 6 Graduate</strong>
-      <br>
-      <small>FUll Stack Stack Development</small>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Diploma-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-      <br>
-      <strong>Diploma Engineer</strong>
-      <br>
-      <small>Computer Technology</small>
-    </td>
-  </tr>
-</table>
+<!-- Ei line ta 100% kaj kore — GitHub e font-size style sometimes cap kore dei or override hoy, tai typing SVG diye full control nilam -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=400&size=20&duration=4000&pause=800&center=true&vCenter=true&width=1000&height=100&color=6366F1&lines=HELLO+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F,+I'M+MD.+ABDULLAH+ALL+SHAMEM;Full-Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;Prisma+%7C+PostgreSQL+%7C+shadcn%2Fui;" />
 
 </div>
-
-<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-
-
-
-</div>
-
-<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abdullah107189&label=Profile%20Views&color=6366f1&style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/Status-Available_for_Projects-6366f1?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/github/followers/abdullah107189?label=GitHub%20Followers&style=for-the-badge&color=6366f1" />
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
 
-</div>
-
-</div>
-
-</div>
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
@@ -141,6 +82,66 @@
 </div>
 
 <br><br>
+
+
+### 🎓 Education & Background
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/University-8B5CF6?style=for-the-badge&logo=academia&logoColor=white" />
+      <br>
+      <strong>Northern University Bangladesh</strong>
+      <br>
+      <small>BSc in CSE (1st Year)</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Programming_Hero-FF6B6B?style=for-the-badge&logo=react&logoColor=white" />
+      <br>
+      <strong>Level 1 | Batch 10 Graduate</strong>
+      <br>
+      <small>MERN Stack Development</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Programming_Hero-FF6B6B?style=for-the-badge&logo=react&logoColor=white" />
+      <br>
+      <strong>Level 2 | Batch 6 Graduate</strong>
+      <br>
+      <small>FUll Stack Stack Development</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Diploma-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      <br>
+      <strong>Diploma Engineer</strong>
+      <br>
+      <small>Computer Technology</small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+
+
+
+</div>
+
+<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdullah107189&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Status-Available_for_Projects-6366f1?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/github/followers/abdullah107189?label=GitHub%20Followers&style=for-the-badge&color=6366f1" />
+
+</div>
+
+</div>
+
+</div>
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
